@@ -1,16 +1,30 @@
-### Hi there 👋
+# 👋 Hello World, I'm Luke Collins!
 
-<!--
-**lukejcollins/lukejcollins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate and creative developer with a keen interest in cloud infrastructure, AI, and solutions development. I'm driven by the thrill of solving complex problems and am constantly seeking ways to innovate and enhance systems.
 
-Here are some ideas to get you started:
+🌱 **Currently Learning:** Generative AI, Cloud Infrastructure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 **Working on:** Creating a Custom Fedora Sericea Image
+
+💡 **Interests:** Cloud Infrastructure, AI, Solutions Development
+
+💬 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/luke-collins-536bb223/)
+
+## ⚡ Technologies & Tools
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS&logoColor=F90)
+![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
+
+## 📊 GitHub Stats
+
+![Luke's Github stats](https://github-readme-stats.vercel.app/api?username=lukejcollins&show_icons=true)
+
+## 🏆 Achievements
+
+- **AWS Certified Developer Associate** - [See Credential](https://www.credly.com/badges/6a0580b0-bb06-45fd-b60f-f831a75fa24c/public_url)
+- **AWS Solutions Architect Associate** - [See Credential](https://www.credly.com/badges/ec64ee0a-4b8a-40b7-8f00-af56351ed35b?source=linked_in_profile)
+
+⭐️ From [lukejcollins](https://github.com/lukejcollins)
