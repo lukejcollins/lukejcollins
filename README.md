@@ -20,7 +20,7 @@ I'm a passionate and creative developer with a keen interest in cloud infrastruc
 
 ## 📊 GitHub Stats
 
-![Luke's Github stats](https://github-readme-stats.vercel.app/api?username=lukejcollins&show_icons=true)
+![Luke's Github stats](https://github-readme-stats.vercel.app/api?username=lukejcollins&show_icons=true&theme=radical)
 
 ## 🏆 Achievements
 
