@@ -4,7 +4,7 @@ I'm a passionate and creative developer with a keen interest in cloud infrastruc
 
 🌱 **Currently Learning:** Generative AI, Cloud Infrastructure
 
-🔭 **Working on:** Creating a Custom Fedora Sericea Image
+🔭 **Working on:** Creating a Django site to be deployed to AWS with Terraform
 
 💡 **Interests:** Cloud Infrastructure, AI, Solutions Development
 
