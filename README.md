@@ -4,7 +4,7 @@ I'm a passionate and creative developer with a keen interest in cloud infrastruc
 
 🌱 **Currently Learning:** Rust
 
-🔭 **Working on:** 🚧
+🔭 **Working on:** My nix-darwin flake
 
 💡 **Interests:** Cloud Infrastructure, AI, Solutions Development
 
