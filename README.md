@@ -1,10 +1,10 @@
 # 👋 Hello World, I'm Luke Collins!
 
-I'm a passionate and creative developer with a keen interest in cloud infrastructure, AI, and solutions development. I'm driven by the thrill of solving complex problems and am constantly seeking ways to innovate and enhance systems.
+I'm a passionate and creative developer with a keen interest in cloud infrastructure, AI, and solutions development. I'm driven by the thrill of solving complex problems and am constantly seeking ways to innovate and enhance processes.
 
-🌱 **Currently Learning:** Generative AI, Cloud Infrastructure
+🌱 **Currently Learning:** Rust
 
-🔭 **Working on:** Creating a Django site to be deployed to AWS with Terraform
+🔭 **Working on:** 🚧
 
 💡 **Interests:** Cloud Infrastructure, AI, Solutions Development
 
@@ -26,5 +26,6 @@ I'm a passionate and creative developer with a keen interest in cloud infrastruc
 
 - **AWS Certified Developer Associate** - [See Credential](https://www.credly.com/badges/6a0580b0-bb06-45fd-b60f-f831a75fa24c/public_url)
 - **AWS Solutions Architect Associate** - [See Credential](https://www.credly.com/badges/ec64ee0a-4b8a-40b7-8f00-af56351ed35b?source=linked_in_profile)
+- **AWS SysOps Administrator Associate** - [See Credential](https://www.credly.com/badges/604c2a30-8ea2-4327-8eb0-1b2a888793f6/public_url)
 
 ⭐️ From [lukejcollins](https://github.com/lukejcollins)
