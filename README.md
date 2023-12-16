@@ -4,7 +4,7 @@ I'm a passionate and creative developer with a keen interest in cloud infrastruc
 
 🌱 **Currently Learning:** Rust
 
-🔭 **Working on:** My nix-darwin flake 🍏
+🔭 **Working on:** [litroulette](https://github.com/lukejcollins/litroulette) 📚
 
 💡 **Interests:** Cloud Infrastructure, AI, Solutions Development
 
