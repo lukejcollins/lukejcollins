@@ -2,9 +2,9 @@
 
 I'm a passionate and creative developer with a keen interest in cloud infrastructure, AI, and solutions development. I'm driven by the thrill of solving complex problems and am constantly seeking ways to innovate and enhance processes.
 
-🌱 **Currently Learning:** Rust
+🌱 **Currently Learning:** AWS Solutions Architect Professional
 
-🔭 **Working on:** [litroulette](https://github.com/lukejcollins/litroulette) 📚
+🔭 **Working on:** Moving my pre-prod and prod websites to new AWS accounts to get an additional 12 months free tier 💰
 
 💡 **Interests:** Cloud Infrastructure, AI, Solutions Development
 
