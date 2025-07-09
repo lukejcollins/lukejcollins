@@ -2,11 +2,11 @@
 
 I'm a passionate and creative developer with a keen interest in cloud infrastructure, AI, and solutions design. I'm driven by the thrill of solving complex problems and am constantly seeking ways to innovate and enhance processes.
 
-🌱 **Currently Learning:** Deepening my knowledge of DevOps
+🌱 **Currently Learning:** Azure
 
-🔭 **Working on:** Strengthening the security posture of my website and actions workflows by switching to AWS IAM role based access for AWS linked activity
+🔭 **Working on:** My personal site powered by Azure DevOps/Pipelines
 
-💡 **Interests:** Cloud Infrastructure, AI, Solutions Design
+💡 **Interests:** Observability, AI, Solutions Design
 
 💬 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/luke-collins-536bb223/)
 
