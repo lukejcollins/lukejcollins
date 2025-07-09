@@ -1,12 +1,12 @@
 # 👋 Hello World, I'm Luke!
 
-I'm a passionate and creative developer with a keen interest in cloud infrastructure, AI, and solutions design. I'm driven to solve complex problems and am constantly seeking ways to innovate and enhance processes.
+I'm a passionate and creative developer with a keen interest in observability and resilience. I'm driven to solve complex problems and constantly seeking ways to innovate and enhance processes.
 
 🌱 **Currently Learning:** Azure
 
-🔭 **Working on:** My personal site powered by Azure DevOps/Pipelines
+🔭 **Working on:** My personal site with CI/CD powered by Azure DevOps/Pipelines
 
-💡 **Interests:** Observability, AI, Solutions Design
+💡 **Interests:** Observability, Homelabbing, AI
 
 💬 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/luke-collins-536bb223/)
 
