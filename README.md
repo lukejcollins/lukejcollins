@@ -1,6 +1,6 @@
 # 👋 Hello World, I'm Luke Collins!
 
-I'm a passionate and creative developer with a keen interest in cloud infrastructure, AI, and solutions design. I'm driven by the thrill of solving complex problems and am constantly seeking ways to innovate and enhance processes.
+I'm a passionate and creative developer with a keen interest in cloud infrastructure, AI, and solutions design. I'm driven to solve complex problems and am constantly seeking ways to innovate and enhance processes.
 
 🌱 **Currently Learning:** Azure
 
